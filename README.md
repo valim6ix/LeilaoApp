@@ -1,4 +1,4 @@
-## LeilaoApp java 
+## Projeto em java para uma App de leilão =Appleilao 
 
 ##capturas de tela 
 
